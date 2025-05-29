@@ -1,6 +1,8 @@
 # ☁️ Crossplane AWS S3 Bucket Demo
 
-This lil fun project demonstrates how to provision and manage an **Amazon S3 bucket** using [Crossplane](https://crossplane.io) and the [Upbound AWS Provider](https://marketplace.upbound.io/providers/upbound/provider-aws) — all declaratively via Kubernetes YAML manifests.
+Up at 3AM, decided to play around with some interesting tools. 
+
+This little fun project demonstrates how to provision and manage an **Amazon S3 bucket** using [Crossplane](https://crossplane.io) and the [Upbound AWS Provider](https://marketplace.upbound.io/providers/upbound/provider-aws) — all declaratively via Kubernetes YAML manifests.
 
 ---
 
